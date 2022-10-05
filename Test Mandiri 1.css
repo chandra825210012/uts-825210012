@@ -93,25 +93,23 @@ nav .Kanan img:hover {background-color: red;}
 
 
 
+.Sub {float: left; width: 100%; background-image: url("image/vew.jpg"); background-size: cover; background-position: center; overflow: hidden;}
+.Subs {margin: 50px auto; max-width: 1100px; overflow: hidden;}
+.Subs .isi {float: left; max-width: 350px; margin: 0 60px;background: none;}
+.Subs .isi h2 {padding-bottom: 15px;}
+.Subs .isi h4 {color: #7E97AF; line-height: 25px;}
 
-.sub{width: 100%;height: 200px;float: left;overflow: hidden;margin-bottom: 100px;}
- 
-.sub img {width: 100%;height: 200px;position: relative;float: left;}
+.Subs .email {float: left; margin: 20px 0 0 10px;}
+.Subs .email input[type=text] {height: 50px; width: 300px; border: 1px solid white; border-radius: 5px; padding: 0 15px; margin: 0 10px 10px 0;}
 
-.sub  .gambar .isi h3{position: absolute;margin-top: -150px;padding-left: 50px;color: white;font-size: 25px;left: 20%;}
- 
-.sub  .gambar .isi p{position: absolute;color:white;font-size: 15px;margin-top: -120px;padding-left: 50px;left: 20%;}
- 
-.sub .gambar .in  input{position: absolute;width: 400px;height: 30px;font-size: 20px;padding: 5px;border-radius: 10px;margin-top: -130px;left:40%;}
- 
-.sub .gambar .sub1{position: absolute;margin-left: 400px;margin-top: -30px;}
- 
-.sub .gambar .sub1 a{ text-decoration: none; float: left;margin-top: -100px;margin-left: 700px;width: 100px;padding: 10px;padding-left: 20px;padding-right: 20px;font-size: 20px;  background: red;border-radius: 20px;color: black;}
- 
-.sub .sub1:hover a{background: aquamarine;border-radius: 20px;color: white;}
+.Subs button[type=submit] {width: 120px; height: 50px; border-radius: 5px; color: white; background-color: #FF4A52; font-size: 15px; cursor: pointer; border: none; font-weight: bold;}
+.Subs button[type=submit]:hover {background-color: #1EC6B6; transition: background 0.5s ease-in-out;}
 
 
-.PP {width: 100%;background:white;overflow: hidden;}
+
+
+
+.PP {width: 100%;background:white;overflow: hidden;height: 200px;margin-top: 1200px;}
 .PP .ket2  {width:550px;color:black;text-align:center;margin:auto;}
 .PP .ket2 h3{color :#343a40}
 
