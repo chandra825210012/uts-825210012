@@ -103,7 +103,7 @@ nav .Kanan img:hover {background-color: red;}
 .Subs .email input[type=text] {height: 50px; width: 300px; border: 1px solid white; border-radius: 5px; padding: 0 15px; margin: 0 10px 10px 0;}
 
 .Subs button[type=submit] {width: 120px; height: 50px; border-radius: 5px; color: white; background-color: #FF4A52; font-size: 15px; cursor: pointer; border: none; font-weight: bold;}
-.Subs button[type=submit]:hover {background-color: #1EC6B6; transition: background 0.5s ease-in-out;}
+.Subs button[type=submit]:hover {background-color: #1EC6B6;}
 
 
 
