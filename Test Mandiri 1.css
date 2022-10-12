@@ -74,7 +74,7 @@ nav .Kanan img:hover {background-color: red;}
 
 
 
-.PD {width: 100%; height: 800px;overflow: hidden;float: left;}
+.PD {width: 100%; height: 800px;overflow: hidden;float: left;margin-top:400px;}
 .PD .foto {float: left;margin-left: 20px;margin-top: 13px;}
 .PD .atas {width: 1200px; margin:auto;}
 .PD .bawah {width: 1200px;margin: auto;}
